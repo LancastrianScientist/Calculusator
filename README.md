@@ -9,3 +9,6 @@ The user enters an expression and clicks a button: differentiation, integration 
 Sympy will calculate the signed area, but a user may be interested in the total geometric area under the curve.  This program calculates the geometric area by considering the roots of the equation. There are different ourcomes:  if the roots are imaginary numbers, there are no roots, there is is one, or 2 or more roots. A geometric area is calculated for each of these, but an additional plot function is provided in the program for a user use to check the  mathematical validity. It's also always fun to have a plot function!
 
 I developed the calculator to practice GUI development in python. The calculator development also matched my interest in learning and teaching maths. I started a blog to track my journey into the calculus calculator, but found I preferred coding to blogging  so the blog describes an early push button format that I later abandoned, but I plan to catch up with the new development soon. (https://www.blogger.com/blog/post/edit/3710951870764407474/486998060452562925). 
+
+I also post about my coding and other stuff on LinkedIn: https://www.linkedin.com/in/dr-david-e-87217957/
+

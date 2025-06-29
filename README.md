@@ -10,7 +10,7 @@ Sympy will calculate the signed area, but a user may be interested in the total 
 
 V9 has a numerical integrator. I improved the processing ability on a raspberry pi by reducing the number of widgets. (The raspberry pi lost focus on widgets). I achieved the widget reduction by combining input and result lables and boxes for all mathematical operations. I added a latex imafge of the question so that a user can now easily tell if they have input the right question.  I also used I also improved the information page.
 
-I developed the calculator to practice GUI development in python. The calculator development also matched my interest in learning and teaching maths. I started a blog to track my journey into the calculus calculator, but found I preferred coding to blogging  so the blog describes an early push button format that I later abandoned, but I plan to catch up with the new development soon. (https://www.blogger.com/blog/post/edit/3710951870764407474/486998060452562925). 
+I developed the calculator to practice GUI development in python. The calculator development also matched my interest in learning and teaching maths. I started a blog to track my journey into the calculus calculator. (https://www.blogger.com/blog/post/edit/3710951870764407474/486998060452562925). 
 
 I also post about my coding and other stuff on LinkedIn: https://www.linkedin.com/in/dr-david-e-87217957/
 
